@@ -1,0 +1,11 @@
+[
+  { "name": "Subcategory 1", "category": "Category 1", "status": "active" },
+  { "name": "Subcategory 2", "category": "Category 1", "status": "inactive" },
+  { "name": "Subcategory 3", "category": "Category 1", "status": "active" },
+
+  { "name": "Subcategory 4", "category": "Category 2", "status": "inactive" },
+  { "name": "Subcategory 5", "category": "Category 2", "status": "active" },
+
+  { "name": "Subcategory 6", "category": "Category 3", "status": "inactive" },
+  { "name": "Subcategory 7", "category": "Category 3", "status": "active" }
+]

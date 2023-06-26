@@ -1,0 +1,12 @@
+[
+  { "name": "Category 1", "status": "active" },
+  { "name": "Category 2", "status": "inactive" },
+  { "name": "Category 3", "status": "active" },
+  { "name": "Category 4", "status": "inactive" },
+  { "name": "Category 5", "status": "active" },
+  { "name": "Category 6", "status": "inactive" },
+  { "name": "Category 7", "status": "active" },
+  { "name": "Category 8", "status": "inactive" },
+  { "name": "Category 9", "status": "active" },
+  { "name": "Category 10", "status": "inactive" }
+]
